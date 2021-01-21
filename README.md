@@ -1,2 +1,2 @@
-# musicDB
+# musicDB-react
 Created with CodeSandbox
